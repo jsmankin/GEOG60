@@ -1,0 +1,31 @@
+A List of Online Python and Computing Resources for GEOG 60.01
+---------------------------------------------------------------
+
+MOST HIGHLY RECOMMENDED:
+- An Introduction to Earth and Environmental Data Science (Online Tutorial Book)
+    https://earth-env-data-science.github.io/intro.html
+
+OTHER HELPFUL RESOURCES:
+- Python Programming And Numerical Methods: A Guide For Engineers And Scientists (Online Textbook with Examples / Tutorials)
+    https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
+
+- Pangeo Tutorial Gallery
+    https://gallery.pangeo.io/repos/pangeo-data/pangeo-tutorial-gallery/index.html
+
+- W3Schools Python Tutorials (Online Tutorials)
+    https://www.w3schools.com/python/default.asp
+    
+- NumPy Documentation
+    https://numpy.org/doc/stable/
+    
+- Xarray Documentation
+    https://docs.xarray.dev/en/stable/index.html
+
+- Matplotlib Documentation
+    https://matplotlib.org/stable/index.html
+
+- Scientific Visualization: Python + Matplotlib (textbook - Free PDF online)
+    https://hal.inria.fr/hal-03427242/document
+    
+- FaIR (model) Documentation
+    https://docs.fairmodel.net/en/latest/index.html
